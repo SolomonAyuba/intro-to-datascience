@@ -2,7 +2,7 @@
 
 This repo contains lab practicals from the Introduction to Data Science (DTS 201) Course module; for 1st semester, 200-level, 1st Semester Data Science program at Miva Open University.
 
-Find Source Files in the 'src' directory. Happy Coding!
+Happy Coding!
 
 © Miva Open University.
 
